@@ -40,3 +40,6 @@ Search This! 週刊少年ジャンプ
 14. Open Up The Chrome Page Inside The Folder
 15. Drag And Drop The Image Onto The Page, Use Your Mouse To De-Scramble It
 16. Enjoy!
+
+
+### Credit To Npiecu!
